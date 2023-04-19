@@ -1,0 +1,38 @@
+Client_ID,Client_Key,Client_Name,Client_PhoneNumber,Client_Type,Client_Budget,Client_Ad_Type,Client_Location,Ad_Key,Ad_Id,Platform_Id,Platform_type,Platform_name,Time_Id,Year,Month,Client_Country,Client_City,Client_State,Reach_Of_Ads,Profit_agency,Profit_client
+1001,1,Nestle,9235584631,FoodIndustry,10000,Video,Pune,1,5000,6000,SocialMedia,Instagram,7000,2010,October,India,Pune,Maharashtra,23000,7500,20000
+1002,2,Nestle,9235584631,FoodIndustry,10000,Native,Henderson,2,5001,6001,NonSocialMedia,Newspaper,7001,2014,October,United States,Henderson,Kentucky,13400,10000,30000
+1004,3,Honda,7568319862,Automobile,50000,Mobile,Los Angeles,3,5002,6002,SocialMedia,GoogleAds,7002,2015,Feburary,United States,Los Angeles,California,4500,1000,9677
+1003,4,Zara,6200833202,ClothingFashion,45000,Display,Fort Lauderdale,4,5003,6003,NonSocialMedia,Radio,7003,2011,Feburary,United States,Fort Lauderdale,Florida,6780,1500,4539
+1003,5,Zara,6200833202,ClothingFashion,45000,Display,Fort Lauderdale,5,5004,6000,SocialMedia,Instagram,7004,2013,March,United States,Fort Lauderdale,Florida,7500,2000,5678
+1005,6,Apple,5009543925,Electronics,65000,Display,Delhi,6,5005,6004,NonSocialMedia,Flyers,7005,2014,March,India,Delhi,Delhi,3440,750,1500
+1005,7,Apple,5009543925,Electronics,65000,Video,Los Angeles,7,5006,6005,SocialMedia,Facebook,7006,2012,August,United States,Los Angeles,California,4378,1200,2578
+1005,8,Apple,5009543925,Electronics,65000,Video,Los Angeles,8,5007,6000,SocialMedia,Instagram,7007,2011,August,United States,Los Angeles,California,8960,3000,6789
+1005,9,Apple,5009543925,Electronics,65000,Display,Bangalore,9,5008,6006,SocialMedia,Youtube,7008,2015,March,India,Bangalore,Karnataka,5430,1500,3456
+1005,10,Apple,5009543925,Electronics,65000,Display,Los Angeles,10,5009,6004,NonSocialMedia,Flyers,7009,2016,May,United States,Los Angeles,California,3330,1678,4566
+1005,11,Apple,5009543925,Electronics,65000,Display,Los Angeles,11,5010,6003,NonSocialMedia,Radio,7010,2017,May,United States,Los Angeles,California,2998,1456,4563
+1005,12,Apple,5009543925,Electronics,65000,Display,Los Angeles,12,5011,6001,NonSocialMedia,Newspaper,7011,2016,June,United States,Los Angeles,California,6980,2456,7869
+1006,13,Shein,3399505622,ClothingFashion,10000,Mobile,Concord,13,5012,6005,SocialMedia,Facebook,7012,2017,June,United States,Concord,North Carolina,1004,479,1000
+1007,14,Urbanic,9618522509,ClothingFashion,12000,Mobile,Bhopal,14,5013,6002,SocialMedia,GoogleAds,7013,2015,September,India,Bhopal,MP,5670,1400,3456
+1007,15,Urbanic,9618522509,ClothingFashion,12000,Display,Fort Worth,15,5014,6001,NonSocialMedia,Newspaper,7014,2019,September,United States,Fort Worth,Texas,3320,1789,3456
+1007,16,Urbanic,9618522509,ClothingFashion,12000,Display,Fort Worth,16,5015,6004,NonSocialMedia,Flyers,7015,2020,July,United States,Fort Worth,Texas,9650,6005,10000
+1008,17,KFC,3323971732,FoodIndustry,14000,Video,Madison,17,5016,6000,SocialMedia,Instagram,7016,2015,July,United States,Madison,Wisconsin,2111,756,1500
+1009,18,Burger King,5510604584,FoodIndustry,34000,Native,Indore,18,5017,6001,NonSocialMedia,Newspaper,7017,2016,July,India,Indore,MP,2117,757,1500
+1010,19,Samsung,2565860393,Electronics,40000,Video,San Francisco,19,5018,6000,SocialMedia,Instagram,7018,2015,March,United States,San Francisco,California,4000,1456,3678
+1010,20,Samsung,2565860393,Electronics,40000,Video,San Francisco,20,5019,6002,SocialMedia,GoogleAds,7019,2011,May,United States,San Francisco,California,69940,25000,37000
+1010,21,Samsung,2565860393,Electronics,40000,Native,San Francisco,21,5020,6001,NonSocialMedia,Newspaper,7020,2013,November,United States,San Francisco,California,3000,1456,2678
+1009,22,Burger King,5750216979,FoodIndustry,34000,Video,Fremont,22,5021,6000,SocialMedia,Instagram,7021,2014,November,United States,Fremont,Nebraska,7800,4500,6578
+1009,23,Burger King,5750216979,FoodIndustry,34000,Display,Mumbai,23,5022,6002,SocialMedia,GoogleAds,7022,2014,August,India,Mumbai,Maharashtra,67000,34556,48798
+1012,24,Youtube,4351472710,Media,56000,Native,Philadelphia,24,5023,6001,NonSocialMedia,Newspaper,7023,2016,December,United States,Philadelphia,Pennsylvania,56000,30560,45646
+1013,25,Snapchat,2598088740,Media,14000,Native,Orem,25,5024,6001,NonSocialMedia,Newspaper,7024,2016,December,United States,Orem,Utah,48000,30055,40000
+1014,26,Coca cola,3064804816,FoodIndustry,36000,Display,Los Angeles,26,5025,6005,SocialMedia,Facebook,7025,2017,July,United States,Los Angeles,California,65000,35000,40566
+1014,27,Coca cola,3064804816,FoodIndustry,36000,Mobile,Pune,27,5026,6000,SocialMedia,Instagram,7026,2017,April,India,Pune,Maharashtra,6550,3000,4567
+1015,28,Amazon,9375981453,E-Commerce,40000,Mobile,Philadelphia,28,5027,6000,SocialMedia,Instagram,7027,2017,April,United States,Philadelphia,Pennsylvania,5600,4000,5000
+1015,29,Amazon,9375981453,E-Commerce,40000,Display,Philadelphia,29,5028,6002,SocialMedia,GoogleAds,7028,2017,August,United States,Philadelphia,Pennsylvania,4550,3000,4000
+1015,30,Amazon,9375981453,E-Commerce,40000,Native,Philadelphia,30,5029,6001,NonSocialMedia,Newspaper,7029,2018,November,United States,Philadelphia,Pennsylvania,4300,2450,3000
+1015,31,Amazon,9375981453,E-Commerce,40000,Native,Philadelphia,31,5030,6004,NonSocialMedia,flyers,7030,2018,November,United States,Philadelphia,Pennsylvania,5040,2000,3050
+1015,32,Amazon,9375981453,E-Commerce,40000,Display,Philadelphia,32,5031,6003,NonSocialMedia,Radio,7031,2018,December,United States,Philadelphia,Pennsylvania,50333,35000,45563
+1015,33,Amazon,9375981453,E-Commerce,40000,Video,Philadelphia,33,5032,6000,SocialMedia,Instagram,7032,2019,May,United States,Philadelphia,Pennsylvania,5050,2500,5975
+1015,34,Amazon,9375981453,E-Commerce,40000,Video,Philadelphia,34,5033,6005,SocialMedia,Facebook,7033,2019,June,United States,Philadelphia,Pennsylvania,53060,45000,54356
+1016,35,Dell,6589109701,Electronics,23000,Video,Houston,35,5034,6000,SocialMedia,Instagram,7034,2019,June,United States,Houston,Texas,6070,2345,4556
+1017,36,Microsoft,4942037206,Software-IT,60000,Display,Richardson,36,5035,6000,SocialMedia,Instagram,7035,2020,September,United States,Richardson,Texas,5600,3455,4567
+1017,37,Microsoft,4942037206,Software-IT,60000,Display,Richardson,37,5036,6005,SocialMedia,Facebook,7036,2020,September,United States,Richardson,Texas,65000,28679,45632

@@ -1,0 +1,38 @@
+Client_ID,Client_Key,Client_Name,Client_PhoneNumber,Client_Type,Client_Budget,Client_Ad_Type,Client_Location,,Client_Country,Client_City,Client_State
+1001,1,Nestle,9235584631,FoodIndustry,10000,Video,Pune,,India,Pune,Maharashtra
+1002,2,Nestle,9235584631,FoodIndustry,10000,Native,Henderson,,United States,Henderson,Kentucky
+1004,3,Honda,7568319862,Automobile,50000,Mobile,Los Angeles,,United States,Los Angeles,California
+1003,4,Zara,6200833202,ClothingFashion,45000,Display,Fort Lauderdale,,United States,Fort Lauderdale,Florida
+1003,5,Zara,6200833202,ClothingFashion,45000,Display,Fort Lauderdale,,United States,Fort Lauderdale,Florida
+1005,6,Apple,5009543925,Electronics,65000,Display,Delhi,,India,Delhi,Delhi
+1005,7,Apple,5009543925,Electronics,65000,Video,Los Angeles,,United States,Los Angeles,California
+1005,8,Apple,5009543925,Electronics,65000,Video,Los Angeles,,United States,Los Angeles,California
+1005,9,Apple,5009543925,Electronics,65000,Display,Bangalore,,India,Bangalore,Karnataka
+1005,10,Apple,5009543925,Electronics,65000,Display,Los Angeles,,United States,Los Angeles,California
+1005,11,Apple,5009543925,Electronics,65000,Display,Los Angeles,,United States,Los Angeles,California
+1005,12,Apple,5009543925,Electronics,65000,Display,Los Angeles,,United States,Los Angeles,California
+1006,13,Shein,3399505622,ClothingFashion,10000,Mobile,Concord,,United States,Concord,North Carolina
+1007,14,Urbanic,9618522509,ClothingFashion,12000,Mobile,Bhopal,,India,Bhopal,MP
+1007,15,Urbanic,9618522509,ClothingFashion,12000,Display,Fort Worth,,United States,Fort Worth,Texas
+1007,16,Urbanic,9618522509,ClothingFashion,12000,Display,Fort Worth,,United States,Fort Worth,Texas
+1008,17,KFC,3323971732,FoodIndustry,14000,Video,Madison,,United States,Madison,Wisconsin
+1009,18,Burger King,5510604584,FoodIndustry,34000,Native,Indore,,India,Indore,MP
+1010,19,Samsung,2565860393,Electronics,40000,Video,San Francisco,,United States,San Francisco,California
+1010,20,Samsung,2565860393,Electronics,40000,Video,San Francisco,,United States,San Francisco,California
+1010,21,Samsung,2565860393,Electronics,40000,Native,San Francisco,,United States,San Francisco,California
+1009,22,Burger King,5750216979,FoodIndustry,34000,Video,Fremont,,United States,Fremont,Nebraska
+1009,23,Burger King,5750216979,FoodIndustry,34000,Display,Mumbai,,India,Mumbai,Maharashtra
+1012,24,Youtube,4351472710,Media,56000,Native,Philadelphia,,United States,Philadelphia,Pennsylvania
+1013,25,Snapchat,2598088740,Media,14000,Native,Orem,,United States,Orem,Utah
+1014,26,Coca cola,3064804816,FoodIndustry,36000,Display,Los Angeles,,United States,Los Angeles,California
+1014,27,Coca cola,3064804816,FoodIndustry,36000,Mobile,Pune,,India,Pune,Maharashtra
+1015,28,Amazon,9375981453,E-Commerce,40000,Mobile,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,29,Amazon,9375981453,E-Commerce,40000,Display,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,30,Amazon,9375981453,E-Commerce,40000,Native,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,31,Amazon,9375981453,E-Commerce,40000,Native,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,32,Amazon,9375981453,E-Commerce,40000,Display,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,33,Amazon,9375981453,E-Commerce,40000,Video,Philadelphia,,United States,Philadelphia,Pennsylvania
+1015,34,Amazon,9375981453,E-Commerce,40000,Video,Philadelphia,,United States,Philadelphia,Pennsylvania
+1016,35,Dell,6589109701,Electronics,23000,Video,Houston,,United States,Houston,Texas
+1017,36,Microsoft,4942037206,Software-IT,60000,Display,Richardson,,United States,Richardson,Texas
+1017,37,Microsoft,4942037206,Software-IT,60000,Display,Richardson,,United States,Richardson,Texas
